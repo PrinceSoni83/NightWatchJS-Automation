@@ -1,0 +1,24 @@
+{
+  "name": "NightWatchPageObjects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceSoni83/NightWatchJS.git"
+  },
+  "keywords": [],
+  "author": "Prince Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrinceSoni83/NightWatchJS/issues"
+  },
+  "homepage": "https://github.com/PrinceSoni83/NightWatchJS#readme",
+  "devDependencies": {
+    "chromedriver": "^78.0.1",
+    "nightwatch": "^1.3.1"
+  }
+}
