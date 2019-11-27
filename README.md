@@ -33,7 +33,7 @@
     nightwatch-html-reporter -d ~/NightWatchPageObjects/tests_output
 
 # CI Pipeline with Jenkins
-    #Pipeline Script (select the definition in the pipeline configure section)
+    #Pipeline Script (select the Pipeline definition in listbox of pipeline configure section)
 
     node('master'){
         git 'https://github.com/PrinceSoni83/NightWatchJS-Automation'
@@ -41,6 +41,4 @@
         bat label: 'Install NPM Package', script: 'npm install'
 
         bat label: 'Run test', script: 'npm test'
-    }
-
     }
