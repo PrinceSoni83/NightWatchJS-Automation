@@ -14,5 +14,6 @@ Repo for NightWatch Test Automation
     NightWatchJS
     Selenium Server
     Jenkins
+    ESLint
 
 
