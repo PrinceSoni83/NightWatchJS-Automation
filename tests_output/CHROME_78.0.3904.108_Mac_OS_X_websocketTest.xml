@@ -5,9 +5,9 @@
 
   <testsuite name="websocketTest"
     errors="0" failures="0" hostname="" id="" package="websocketTest" skipped="0"
-    tests="1" time="0.3070" timestamp="">
+    tests="1" time="0.1360" timestamp="">
   
-    <testcase name="Binance WebSocket API test" classname="websocketTest" time="0.3070" assertions="0">
+    <testcase name="Binance WebSocket API test" classname="websocketTest" time="0.1360" assertions="0">
     </testcase>
   
 

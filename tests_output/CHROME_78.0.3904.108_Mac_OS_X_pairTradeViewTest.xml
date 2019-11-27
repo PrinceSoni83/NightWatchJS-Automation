@@ -5,9 +5,9 @@
 
   <testsuite name="pairTradeViewTest"
     errors="0" failures="0" hostname="" id="" package="pairTradeViewTest" skipped="0"
-    tests="1" time="10.29" timestamp="">
+    tests="1" time="8.993" timestamp="">
   
-    <testcase name="Pair Trade View Page" classname="pairTradeViewTest" time="10.29" assertions="13">
+    <testcase name="Pair Trade View Page" classname="pairTradeViewTest" time="8.993" assertions="13">
 
     
 

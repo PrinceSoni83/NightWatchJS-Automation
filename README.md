@@ -30,7 +30,7 @@
 # Genrate the HTML Report
     npm install nightwatch-html-reporter
     run the below cammand:
-    nightwatch-html-reporter -d ~/NightWatchPageObjects/tests_output/reports
+    nightwatch-html-reporter -d ~/NightWatchPageObjects/tests_output
 
 # CI Pipeline with Jenkins
     #Pipeline Script (select the definition in the pipeline configure section)
