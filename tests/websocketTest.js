@@ -5,9 +5,9 @@ module.exports = {
         const api = require('binance');
         const binanceWS = new api.BinanceWS(true);
 
-        // binanceWS.onDepthUpdate('ETHBTC', (data) => {
-        //     console.log(data);
-        // });
+        binanceWS.onDepthUpdate('ETHBTC', (data) => {
+         console.log(data);
+        });
 
 
         //Asynchronous API expample to get the data
