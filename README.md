@@ -1,6 +1,6 @@
 # NightWatchJS
-    Repo for NightWatchJS Test Automation
-
+    Javascript page object test automation framework
+    
 # Highlights
     End to End testing for web application using NightWatchJS
     Page Objects Design Pattern
